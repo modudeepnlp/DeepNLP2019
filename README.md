@@ -1,7 +1,7 @@
 # DeepNLP2019
 
-모두의 연구소 자연어처리 LAB의 자료들을 올리는 Repository 입니다.
-스터디는 매주 수요일 저녁 8:00 ~ 10:30에 강남 모두의 연구소 캠퍼스에 진행됩니다.
+모두의 연구소 자연어처리 LAB의 자료들을 올리는 Repository 입니다.  
+스터디는 매주 수요일 저녁 8:00 ~ 10:30에 강남 모두의 연구소 캠퍼스에 진행됩니다.  
 스터디 진행 스케줄 : [Schedule](https://docs.google.com/spreadsheets/d/1-m9TveaMZ54EVI-ikGYcp1orD1-GsIwXZbaZDi0oW4c)
 
 ---
@@ -29,5 +29,5 @@
 
 ## Github 사용 관련 문의
 
-github 사용 관련해서 문의는 아래의 메일로 보내주세요.
+github 사용 관련해서 문의는 아래의 메일로 보내주세요.  
 조중현: reniew2@gmail.com
